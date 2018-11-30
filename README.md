@@ -1,1 +1,1 @@
- 
+Theme everything in TWRP
